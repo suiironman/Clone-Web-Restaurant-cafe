@@ -152,6 +152,11 @@ body {
     color: black;
 }
 
+.sb-btn-2 a:hover {
+    transition: 0.3s ease;
+    background-color: #f1f1f1;
+}
+
 .sb-btn-2 span {
     font-weight: 500;
 }
